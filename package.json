@@ -1,0 +1,14 @@
+{
+  "name": "twillio-node",
+  "version": "1.0.0",
+  "description": "Twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harshit gupta",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^4.20.0"
+  }
+}
